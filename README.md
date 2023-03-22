@@ -19,7 +19,11 @@ This repository is a template for deploying a JSON Server on Vercel. JSON Server
 
 ## Getting Started
 
-To get started, follow these steps:
+To get started, click:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmefengl%2Fjson-server-vercel-starter)
+
+Or, follow these steps:
 
 1. Click the "Use this template" button at the top of this GitHub repository to create a new repository with this template.
 
